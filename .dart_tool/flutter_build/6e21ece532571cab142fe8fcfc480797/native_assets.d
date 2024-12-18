@@ -1,0 +1,1 @@
+ /Users/mac/Downloads/Fuel\ Efficiency\ Prediction/Fuel\ Efficiency\ Predictor/Complete/FlutterFuelEfficiencyPredictor/.dart_tool/flutter_build/6e21ece532571cab142fe8fcfc480797/native_assets.yaml: 

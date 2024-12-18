@@ -21,10 +21,35 @@
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/bertqa/build" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/bertqa/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/bertqa/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/audio_classification/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/audio_classification/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/audio_classification/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/object_detection_ssd_mobilenet/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/object_detection_ssd_mobilenet/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/object_detection_ssd_mobilenet/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/super_resolution_esrgan/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/super_resolution_esrgan/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/super_resolution_esrgan/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/image_classification_mobilenet/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/image_classification_mobilenet/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/image_classification_mobilenet/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/gesture_classification/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/gesture_classification/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/gesture_classification/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/live_object_detection_ssd_mobilenet/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/live_object_detection_ssd_mobilenet/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/live_object_detection_ssd_mobilenet/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/digit_classification/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/digit_classification/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/digit_classification/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/reinforcement_learning/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/reinforcement_learning/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/tflite_flutter/example/reinforcement_learning/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
     <orderEntry type="library" name="Flutter Plugins" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>
