@@ -148,8 +148,8 @@ class _MyHomePageState extends State<MyHomePage> {
     oceanE = (oceanE - mean[12]) / std[12];
     // For ex: if input tensor shape [1,5] and type is float32
     var input = [
-      lat,
       log,
+      lat,
       age,
       rooms,
       bedrooms,
